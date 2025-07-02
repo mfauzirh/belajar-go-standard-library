@@ -1,0 +1,4 @@
+test logging
+test logging 2
+
+test logging 2
